@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Piotr Skudlik (@Kronikarz001)
+- 👀 I’m interested in programming, robotics, gaming, skiing
+- 🌱 I’m currently learning Java Script, Node.js, Python and C++
+- 💞️ I’m looking to collaborate on intership of any kind
+- 📫 How to reach me: mail (piotrek.11201@gmail.com) or GitHub
