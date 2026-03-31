@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piotr Skudlik (@Kronikarz001)
 - 👀 I’m interested in programming, robotics, gaming, skiing
-- 🌱 I’m currently interesting in Laravel, Vue.js and Python
-- 💞️ I’m looking to collaborate on Full Stack Developer
-- 📫 How to reach me: mail (piotrek.11201@gmail.com) or GitHub
+- 🌱 I’m currently interesting in Laravel and Python
+- 💞️ I’m looking to collaborate on Full Stack Developer or Backend Developer
+- 📫 How to reach me: by mail **piotrek.11201@gmail.com** or GitHub
